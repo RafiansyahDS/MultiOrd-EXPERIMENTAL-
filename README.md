@@ -7,26 +7,27 @@ A Multi open order script for metatrader 4
 Turn On the Autotrading first on metatrader
 
 - DelayMode
-True = Multiple order price may will DIFFERENT each other and change depend on market price (will execute the amount of expected layer)
-False = Multiple order price will be the SAME each other (May not be executed the amount of expected layer)
+  * True = Multiple order price may will DIFFERENT each other and change depend on market price (will execute the amount of expected layer)
+  * False = Multiple order price will be the SAME each other (May not be executed the amount of expected layer)
 
 - Lot
-The size of lot
+  The size of lot
 
 - Slippage
-The size of slippage
+  The size of slippage
+
 - SL_Price
-Stop Loss Price. *Remember fill this input for the price not the how much currency.
+  Stop Loss Price. *Remember fill this input for the price not the how much currency.
 
 - TP_Price
-Take Profit Price. *Remember fill this input for the price not the how much currency.
+  Take Profit Price. *Remember fill this input for the price not the how much currency.
 
 - Aksi
-Choose Buy / Sell action.
+  Choose Buy / Sell action.
 
 - Layer
-Input How Many Layer/Multiple of order you want.
-(with DelayMode false, the layer/multiple order may not executed with expected amount of layer)
+  Input How Many Layer/Multiple of order you want.
+  (with DelayMode false, the layer/multiple order may not executed with expected amount of layer)
 
 
 ## CAUTIONS
