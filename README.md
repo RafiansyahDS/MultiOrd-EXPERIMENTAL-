@@ -14,19 +14,19 @@ Turn On the Autotrading first on metatrader
  <br> The size of lot
 
 - Slippage
-  The size of slippage
+ <br> The size of slippage
 
 - SL_Price
-  Stop Loss Price. *Remember fill this input for the price not the how much currency.
+ <br> Stop Loss Price. *Remember fill this input for the price not the how much currency.
 
 - TP_Price
-  Take Profit Price. *Remember fill this input for the price not the how much currency.
+ <br> Take Profit Price. *Remember fill this input for the price not the how much currency.
 
 - Aksi
-  Choose Buy / Sell action.
+ <br> Choose Buy / Sell action.
 
 - Layer
-  Input How Many Layer/Multiple of order you want.
+ <br> Input How Many Layer/Multiple of order you want.
   (with DelayMode false, the layer/multiple order may not executed with expected amount of layer)
 
 
