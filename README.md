@@ -32,3 +32,6 @@ Turn On the Autotrading first on metatrader
 
 ## CAUTIONS
 this script still on experimental and may have a malfunction, you can use this script on demo account. but if you use this script on real account, i will not / i don't take any responsibility if you get loss.
+
+## Credits
+this is my first script, hope this will help you trade :)
