@@ -8,7 +8,7 @@ Turn On the Autotrading first on metatrader
 
 - DelayMode
   * True = Multiple order price may will DIFFERENT each other and change depend on market price (will execute the amount of expected layer)
-  * False = Multiple order price will be the SAME each other (May not be executed the amount of expected layer)
+  * False = Multiple order price will be the SAME each other (May not execute the amount of expected layer)
 
 - Lot
  <br> The size of lot
