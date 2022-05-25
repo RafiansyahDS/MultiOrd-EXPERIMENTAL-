@@ -11,7 +11,7 @@ Turn On the Autotrading first on metatrader
   * False = Multiple order price will be the SAME each other (May not be executed the amount of expected layer)
 
 - Lot
-  The size of lot
+ <br> The size of lot
 
 - Slippage
   The size of slippage
